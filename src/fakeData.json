@@ -1,0 +1,120 @@
+{
+    
+    "data":[
+        {
+            "id":"1",
+            "title":"Lattermark logos",
+            "desc1":"Lattermark logos A Monogram of lettermark is a typography based logo thats comprised of a new letters, usually a companys initials.The latetrmark is  all about simplicity",
+            "desc2":"By utilizing just a few letters lettermark logos are effective at streamling any company brand if they have a long name Lattermark logos",
+            "logos":[
+                {
+                    "id":"1",
+                    "img":"https://i.ibb.co/9yD82MV/ibm.png "
+                },
+                {
+                    "id": "2",
+                    "img": "https://i.ibb.co/FVPsqfh/visa.jpg"
+                },
+                {
+                    "id": "3",
+                    "img": "https://i.ibb.co/3F4HpRP/nasa.png"
+                }
+            ]
+        },{
+            "id": "2",
+            "title": "Wordmark logos",
+            "desc1": " Wordmark logos A Monogram of lettermark is a typography based logo thats comprised of a new letters, usually a companys initials.The latetrmark is  all about simplicity",
+            "desc2": "By utilizing just a few letters lettermark logos are effective at streamling any company brand if they have a long name Wordmark logos",
+            "logos": [
+                {
+                    "id": "1",
+                    "img": "https://i.ibb.co/9yD82MV/ibm.png "
+                },
+                {
+                    "id": "2",
+                    "img": "https://i.ibb.co/4f9ZZnK/apple.png"
+                },
+                {
+                    "id": "3",
+                    "img": "https://i.ibb.co/19V3g7V/target.jpg"
+                }
+            ]
+        },{
+            "id": "3",
+            "title": "Pictorial Mark logos",
+            "desc1": " Pictorial Mark logos A Monogram of lettermark is a typography based logo thats comprised of a new letters, usually a companys initials.The latetrmark is  all about simplicity",
+            "desc2": "By utilizing just a few letters lettermark logos are effective at streamling any company brand if they have a long name Pictorial Mark logos",
+            "logos": [
+                {
+                    "id": "1",
+                    "img": "https://i.ibb.co/zVTZss1/bp.jpg"
+                },
+                {
+                    "id": "2",
+                    "img": "https://i.ibb.co/8rFcNdK/pepsi.png"
+                },
+                {
+                    "id": "3",
+                    "img": "https://i.ibb.co/j5NnYd1/adidas.jpg"
+                }
+            ]
+        },{
+            "id": "4",
+            "title": "Abstract Mark logos",
+            "desc1": " Abstract Mark logos A Monogram of lettermark is a typography based logo thats comprised of a new letters, usually a companys initials.The latetrmark is  all about simplicity",
+            "desc2": "By utilizing just a few letters lettermark logos are effective at streamling any company brand if they have a long name Abstract Mark logos",
+            "logos": [
+                {
+                    "id": "1",
+                    "img": "https://i.ibb.co/gWDDjJB/google.png"
+                },
+                {
+                    "id": "2",
+                    "img": "https://i.ibb.co/Nr40Cyb/cocacola.jpg"
+                },
+                {
+                    "id": "3",
+                    "img": "https://i.ibb.co/0D4nfN3/twitter.jpg"
+                }
+            ]
+        },{
+            "id": "5",
+            "title": "Mascot Mark logos",
+            "desc1": " Mascot Mark logos A Monogram of lettermark is a typography based logo thats comprised of a new letters, usually a companys initials.The latetrmark is  all about simplicity",
+            "desc2": "By utilizing just a few letters lettermark logos are effective at streamling any company brand if they have a long name Mascot Mark logos",
+            "logos": [
+                {
+                    "id": "1",
+                    "img": "https://i.ibb.co/XzysX4P/koolaid.jpg"
+                },
+                {
+                    "id": "2",
+                    "img": "https://i.ibb.co/XzysX4P/koolaid.jpg"
+                },
+                {
+                    "id": "3",
+                    "img": "https://i.ibb.co/XzysX4P/koolaid.jpg"
+                }
+            ]
+        },{
+            "id": "6",
+            "title": "Combination logos",
+            "desc1": " Combination logos A Monogram of lettermark is a typography based logo thats comprised of a new letters, usually a companys initials.The latetrmark is  all about simplicity",
+            "desc2": "By utilizing just a few letters lettermark logos are effective at streamling any company brand if they have a long name Combination logos",
+            "logos": [
+                {
+                    "id": "1",
+                    "img": "https://i.ibb.co/d0rYQYH/doritos.png"
+                },
+                {
+                    "id": "2",
+                    "img": "https://i.ibb.co/JmNfBMh/burgerking.jpg"
+                },
+                {
+                    "id": "3",
+                    "img": "https://i.ibb.co/vB5Sy1J/lacoste.png"
+                }
+            ]
+        }
+    ]
+}
